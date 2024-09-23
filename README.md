@@ -33,5 +33,5 @@ You can extend the functionality of the mouse events:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/mouse-event
-   cd mouse-event
+   git clone https://github.com/IT21314742/Mouse Event Interaction Application using HTML, CSS, and JavaScript
+   cd Mouse Event Interaction Application using HTML, CSS, and JavaScript
